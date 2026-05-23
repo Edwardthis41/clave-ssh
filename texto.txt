@@ -1,0 +1,9 @@
+Hola esto es una prueba para configurar
+una clave ssh. 
+
+
+SSH (Secure Shell) es una herramienta que te permite controlar otra
+computadora a distancia mediante una ventana de comandos.
+Imagina que es un control remoto con el que puedes escribir
+instrucciones y mover archivos en un servidor, sin importar en qué
+parte del mundo se encuentre físicamente esa máquina.
